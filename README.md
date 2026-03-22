@@ -1,1 +1,1 @@
-Actualización de Token
+Actualización de migración a tokens npm granulares v2.1
